@@ -1,31 +1,30 @@
-# Privacy Policy for TheWiseWizardMan
+![Logo](https://i.ibb.co/LCQ2Pcg/image2.png)
+# TheWiseWizardMan
 
-## Introduction
-TheWiseWizardMan is a Discord bot created to check the age of Discord servers. This privacy policy outlines how data is handled, which includes only the current server’s age and the current time in UTC for calculation purposes.
+This is a repository for a website that I made for a Discord bot's privacy policy. It contains information of the privacy policy regarding in-general data and usage.
+## Badges
 
-## Data Collection
-TheWiseWizardMan only collects:
-- The current server's age.
-- The current time in UTC to calculate the server’s age.
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+## FAQ
 
-No other data is collected by the bot.
+The website is prone to being updated at any point in time and may receive extra layers, which will be listed above.
+## Features
 
-## Data Usage
-The collected data (server’s age and UTC time) is used solely for the purpose of calculating and displaying the server’s age within the Discord server. This data is not shared with any third parties, nor will it be retained beyond the moment it is used.
+### Pages / Sections (scrolling)
+- index.html (Privacy Policy)
 
-## Data Storage
-No data is stored by TheWiseWizardMan. All calculations are performed in real-time, and no data is saved or archived.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
 
-## Data Retention and Removal
-Since no data is stored, there is no data to delete, and retention of data is not applicable.
+## Feedback
 
-## Data Security
-Since TheWiseWizardMan does not store data, there are no security measures needed to protect data that is not stored. The only information publicly available is the server’s age displayed in a Discord channel, as determined by the server user.
+If you have any feedback, please reach out to myself at kalinuxsu@proton.me.
 
-## User Rights
-If you have any questions about this privacy policy, you can contact:
-- **Discord:** wildREA#8123
-- **Email:** kalinuxsu@proton.me
+## Authors
 
-## Policy Updates
-This privacy policy may be updated periodically. We will make updated versions available in the same location as this policy to keep users informed of any changes.
+- [@wildREA](https://www.github.com/wildREA)
+
+
+## Appendix
+
+I am a versatile Data Technician with specialization in programming, doing full-stack development to create great websites as well as both engineering and developing software.
