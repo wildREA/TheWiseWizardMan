@@ -23,7 +23,7 @@ Since no data is stored, there is no data to delete, and retention of data is no
 Since TheWiseWizardMan does not store data, there are no security measures needed to protect data that is not stored. The only information publicly available is the server’s age displayed in a Discord channel, as determined by the server user.
 
 ## User Rights
-If you have any questions about this privacy policy, you can contact us:
+If you have any questions about this privacy policy, you can contact:
 - **Discord:** wildREA#8123
 - **Email:** kalinuxsu@proton.me
 
